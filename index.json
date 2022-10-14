@@ -910,26 +910,6 @@
          "title": "Underswap: Hopes and Dreams",
          "type": "audio"
       },
-      "outertale-story": {
-         "source": "outertale-story.mp3",
-         "title": "Outertale: Once Upon A Star",
-         "type": "audio"
-      },
-      "outertale-glamour": {
-         "source": "outertale-glamour.mp3",
-         "title": "Outertale: Death by Glamour",
-         "type": "audio"
-      },
-      "outertale-wastelands": {
-         "source": "outertale-wastelands.mp3",
-         "title": "Outertale: Wastelands",
-         "type": "audio"
-      },
-      "outertale-megalovania": {
-         "source": "outertale-megalovania.mp3",
-         "title": "Outertale: Megalovania",
-         "type": "audio"
-      },
       "retro-iii": {
          "source": "retro-iii.mp3",
          "title": "Retro III",
@@ -1093,6 +1073,11 @@
       "outertale-armageddon": {
          "source": "outertale-armageddon.mp3",
          "title": "Armageddon",
+         "type": "audio"
+      },
+      "outertale-megalovania": {
+         "source": "outertale-megalovania.mp3",
+         "title": "Megalovania",
          "type": "audio"
       }
    },
