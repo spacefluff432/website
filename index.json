@@ -800,6 +800,16 @@
          "title": "Transdimensional IV (Legacy)",
          "type": "audio"
       },
+      "transdimensional-v": {
+         "source": "transdimensional-v.mp3",
+         "title": "Transdimensional V",
+         "type": "audio"
+      },
+      "legacy": {
+         "source": "legacy.mp3",
+         "title": "Legacy",
+         "type": "audio"
+      },
       "tunnel-vision": {
          "source": "tunnel-vision.mp3",
          "title": "Tunnel Vision",
@@ -937,67 +947,67 @@
       },
       "perpetual-purgatory": {
          "source": "perpetual-purgatory.mp3",
-         "title": "Dusttale: Perpetual Purgatory",
+         "title": "DTTFK: Perpetual Purgatory",
          "type": "audio"
       },
       "unambivalent-severance": {
          "source": "unambivalent-severance.mp3",
-         "title": "Dusttale: Unambivalent Severance",
+         "title": "DTTFK: Unambivalent Severance",
          "type": "audio"
       },
       "traumatic-resilience": {
          "source": "traumatic-resilience.mp3",
-         "title": "Dusttale: Traumatic Resilience",
+         "title": "DTTFK: Traumatic Resilience (Old)",
          "type": "audio"
       },
       "disconsolate-inevitability": {
          "source": "disconsolate-inevitability.mp3",
-         "title": "Dusttale: Disconsolate Inevitability",
+         "title": "DTTFK: Disconsolate Inevitability",
          "type": "audio"
       },
       "resigned-tribulation": {
          "source": "resigned-tribulation.mp3",
-         "title": "Dusttale: Resigned Tribulation",
+         "title": "DTTFK: Resigned Tribulation",
          "type": "audio"
       },
       "malicio-strike-back": {
          "source": "malicio-strike-back.mp3",
-         "title": "Dusttale: Malicio Strike Back",
+         "title": "DTTFQ: Malicio Strike Back",
          "type": "audio"
       },
       "innocence-lost": {
          "source": "innocence-lost.mp3",
-         "title": "Dusttale: Innocence Lost",
+         "title": "DTTFQ: Innocence Lost",
          "type": "audio"
       },
       "maternal-retribution": {
          "source": "maternal-retribution.mp3",
-         "title": "Dusttale: Maternal Retribution",
+         "title": "DTTFQ: Maternal Retribution",
          "type": "audio"
       },
       "caretaker-no-more": {
          "source": "caretaker-no-more.mp3",
-         "title": "Dusttale: Caretaker No More",
+         "title": "DTTFQ: Caretaker No More",
          "type": "audio"
       },
       "the-ultimate-encounter": {
          "source": "the-ultimate-encounter.mp3",
-         "title": "Dusttale: The Ultimate Encounter",
+         "title": "DTTFQ: The Ultimate Encounter",
          "type": "audio"
       },
       "rest-my-child": {
          "source": "rest-my-child.mp3",
-         "title": "Dusttale: Rest, My Child",
+         "title": "DTTFQ: Rest, My Child",
          "type": "audio"
       },
       "the-menace-appears": {
          "source": "the-menace-appears.mp3",
-         "title": "Dusttale: The Menace Appears",
+         "title": "DTSOV: The Menace Appears",
          "type": "audio"
       },
       "spear-of-vengeance": {
          "source": "spear-of-vengeance.mp3",
-         "title": "Dusttale: Spear Of Vengeance",
+         "title": "DTSOV: Spear Of Vengeance",
          "type": "audio"
       },
       "stuckie": {
@@ -1017,280 +1027,76 @@
       },
       "howling-winds": {
          "source": "howling-winds.mp3",
-         "title": "Dusttale: Howling Winds",
+         "title": "DTSOV: Howling Winds",
          "type": "audio"
       },
       "infinity-v": {
          "source": "infinity-v.mp3",
          "title": "Infinity V",
          "type": "audio"
+      },
+      "dttfk-phase1": {
+         "source": "dttfk-phase1.mp3",
+         "title": "DTTFK: Traumatic Resilience",
+         "type": "audio"
+      },
+      "dttfk-phase2": {
+         "source": "dttfk-phase2.mp3",
+         "title": "DTTFK: Belligerant Tyranny",
+         "type": "audio"
+      },
+      "paradox": {
+         "source": "paradox.mp3",
+         "title": "Paradox",
+         "type": "audio"
+      },
+      "outertale-outlands": {
+         "source": "outertale-outlands.mp3",
+         "title": "Outlands",
+         "type": "audio"
+      },
+      "outertale-foundry": {
+         "source": "outertale-foundry.mp3",
+         "title": "The Foundry",
+         "type": "audio"
+      },
+      "outertale-cosmos": {
+         "source": "outertale-cosmos.mp3",
+         "title": "Quiet Cosmos",
+         "type": "audio"
+      },
+      "outertale-aerialis": {
+         "source": "outertale-aerialis.mp3",
+         "title": "Aerialis",
+         "type": "audio"
+      },
+      "outertale-archive": {
+         "source": "outertale-archive.mp3",
+         "title": "Into the Archive",
+         "type": "audio"
+      },
+      "outertale-muffet": {
+         "source": "outertale-muffet.mp3",
+         "title": "Spider Dance",
+         "type": "audio"
+      },
+      "outertale-dummy": {
+         "source": "outertale-dummy.mp3",
+         "title": "Dummy!",
+         "type": "audio"
+      },
+      "outertale-hero": {
+         "source": "outertale-hero.mp3",
+         "title": "Battle Against a True Hero",
+         "type": "audio"
+      },
+      "outertale-armageddon": {
+         "source": "outertale-armageddon.mp3",
+         "title": "Armageddon",
+         "type": "audio"
       }
    },
    "groups": {
-      "album-54": {
-         "cover": "album-54.jpg",
-         "members": [
-            "dance-of-hearts",
-            "drone-303",
-            "elaine",
-            "eternity-ii",
-            "evolution-ii",
-            "majesty",
-            "untitled-rap"
-         ],
-         "title": "Album 54",
-         "type": "collection"
-      },
-      "bops-n-vibes": {
-         "cover": "bops-n-vibes.jpg",
-         "members": [
-            "asgore",
-            "chill",
-            "death-by-glamour",
-            "dream-ii",
-            "fallen-down",
-            "jero",
-            "majestic-skies",
-            "power",
-            "song-of-the-ages",
-            "ticking-clock"
-         ],
-         "title": "Bops 'n' Vibes",
-         "type": "collection"
-      },
-      "cloud-9": {
-         "cover": "cloud-9.jpg",
-         "members": [ "chilled-ii", "cloud-9", "interstellar", "midaris-ii", "retro", "rise", "sway" ],
-         "title": "Cloud 9",
-         "type": "collection"
-      },
-      "endless": {
-         "cover": "endless.jpg",
-         "members": [
-            "endless",
-            "endless-intro",
-            "endless-act-1",
-            "endless-interlude",
-            "endless-act-2",
-            "endless-act-3",
-            "endless-act-4",
-            "endless-act-5",
-            "endless-outro",
-            "endless-short"
-         ],
-         "title": "Endless",
-         "type": "collection"
-      },
-      "featured-music": {
-         "cover": "featured-music.jpg",
-         "members": [
-            "goated-1:outertale-glamour",
-            "tracks-of-2021:harrowing-approach",
-            "tracks-of-2021:hypno-ray",
-            "tracks-of-2021:infinity-v",
-            "goated-2:perpetual-purgatory",
-            "goated-1:outertale-megalovania",
-            "goated-1:maternal-retribution",
-            "goated-1:spear-of-vengeance",
-            "goated-1:underswap-hopes-and-dreams",
-            "tracks-of-2021:retro-iii"
-         ],
-         "title": "Featured Music",
-         "type": "compilation"
-      },
-      "goated-1": {
-         "cover": "goated-1.png",
-         "members": [
-            "disconsolate-inevitability",
-            "caretaker-no-more",
-            "underswap-hopes-and-dreams",
-            "innocence-lost",
-            "maternal-retribution",
-            "spear-of-vengeance",
-            "the-ultimate-encounter",
-            "traumatic-resilience",
-            "unambivalent-severance",
-            "outertale-megalovania"
-         ],
-         "title": "GOATed: Phase 1",
-         "type": "collection"
-      },
-      "goated-2": {
-         "cover": "goated-2.png",
-         "members": [
-            "howling-winds",
-            "malicio-strike-back",
-            "outertale-story",
-            "outertale-wastelands",
-            "perpetual-purgatory",
-            "resigned-tribulation",
-            "rest-my-child",
-            "relief",
-            "the-menace-appears",
-            "outertale-glamour"
-         ],
-         "title": "GOATed: Phase 2",
-         "type": "collection"
-      },
-      "hummingbird": {
-         "cover": "hummingbird.jpg",
-         "members": [
-            "the-beginning",
-            "ancient-tales",
-            "rhythm",
-            "tangerine-skies",
-            "temporal-shift-ii",
-            "transdimensional-ii",
-            "the-end"
-         ],
-         "title": "Hummingbird",
-         "type": "collection"
-      },
-      "initialize": {
-         "cover": "initialize.jpg",
-         "members": [
-            "animal-jam",
-            "binary-sunset",
-            "bliss-ii",
-            "c4",
-            "harmonic-voltage",
-            "jive",
-            "temporal-shift-iii"
-         ],
-         "title": "Initialize",
-         "type": "collection"
-      },
-      "origins": {
-         "cover": "origins.jpg",
-         "members": [ "blazed", "chilled", "dynasty", "one-lifetime", "temporal-shift", "tunnel-vision", "warp-10" ],
-         "title": "Origins",
-         "type": "collection"
-      },
-      "progression-x": {
-         "cover": "progression-x.jpg",
-         "members": [ "dream", "magnum-opus", "transdimensional-iii", "universe" ],
-         "title": "Progression X",
-         "type": "collection"
-      },
-      "progression-y": {
-         "cover": "progression-y.jpg",
-         "members": [ "animal-jam-ii", "dj-spider", "duality", "positron" ],
-         "title": "Progression Y",
-         "type": "collection"
-      },
-      "progression-z": {
-         "cover": "progression-z.jpg",
-         "members": [ "atmosphere", "pan-galactic", "bounce-iii", "groovy" ],
-         "title": "Progression Z",
-         "type": "collection"
-      },
-      "prototype": {
-         "cover": "prototype.jpg",
-         "members": [ "fairy-tale", "last-dimension", "majesty-ii", "mono", "new-level", "novel", "perfect" ],
-         "title": "Prototype",
-         "type": "collection"
-      },
-      "seven": {
-         "cover": "seven.png",
-         "members": [ "dawn", "fresh", "majesty-iii", "blissful", "riotous", "empowered", "smooth" ],
-         "title": "Seven",
-         "type": "collection"
-      },
-      "space": {
-         "cover": "space.jpg",
-         "members": [ "bliss", "bounce", "mystic", "raspberry-jam", "summer", "supernova", "the-truth" ],
-         "title": "Space",
-         "type": "collection"
-      },
-      "spacetime": {
-         "cover": "spacetime.gif",
-         "members": [],
-         "title": "Project Spacetime",
-         "type": "collection"
-      },
-      "storage": {
-         "cover": "",
-         "members": [ "the-beginning", "the-end" ],
-         "title": "",
-         "type": "collection"
-      },
-      "the-archives": {
-         "cover": "the-archives.jpg",
-         "members": [ "cool-groove", "counterculture", "midaris", "moodswing" ],
-         "title": "The Archives",
-         "type": "collection"
-      },
-      "time": {
-         "cover": "time.jpg",
-         "members": [ "breakdance", "click", "hover", "reload", "sand", "telephone", "transdimensional" ],
-         "title": "Time",
-         "type": "collection"
-      },
-      "tracks-of-2018": {
-         "cover": "tracks-of-2018.jpg",
-         "members": [
-            "alpha",
-            "ambient-smash",
-            "cataclysm",
-            "electro-song",
-            "limbo",
-            "piano-song",
-            "pyramid",
-            "rainfall",
-            "signal",
-            "tension"
-         ],
-         "title": "Tracks of 2018",
-         "type": "collection"
-      },
-      "tracks-of-2019": {
-         "cover": "tracks-of-2019.jpg",
-         "members": [
-            "bounce-ii",
-            "cataclysm-ii",
-            "dance-of-spades",
-            "eternity",
-            "evolution",
-            "hood-waltz",
-            "odyssey",
-            "retro-ii",
-            "rise-ii",
-            "transdimensional-iv"
-         ],
-         "title": "Tracks of 2019",
-         "type": "collection"
-      },
-      "tracks-of-2020": {
-         "cover": "tracks-of-2020.png",
-         "members": [
-            "cadence",
-            "challenger",
-            "epic-song",
-            "fast-lane",
-            "mystery",
-            "tangerine-skies-ii",
-            "telstar",
-            "temporal-shift-iv",
-            "top-secret",
-            "wavetable"
-         ],
-         "title": "Tracks of 2020",
-         "type": "collection"
-      },
-      "tracks-of-2021": {
-         "cover": "tracks-of-2021.png",
-         "members": [
-            "victorious",
-            "hypno-ray",
-            "stuckie",
-            "infinity-v",
-            "retro-iii",
-            "harrowing-approach",
-            "untitled-rap-ii"
-         ],
-         "title": "Tracks Of 2021",
-         "type": "collection"
-      },
       "unreleased-1": {
          "cover": "unreleased-1.jpg",
          "members": [
@@ -1341,6 +1147,253 @@
          ],
          "title": "Unreleased: Vol. 3",
          "type": "collection"
+      },
+      "the-archives": {
+         "cover": "the-archives.jpg",
+         "members": [ "cool-groove", "counterculture", "midaris", "moodswing" ],
+         "title": "The Archives",
+         "type": "collection"
+      },
+      "origins": {
+         "cover": "origins.jpg",
+         "members": [ "blazed", "chilled", "dynasty", "one-lifetime", "temporal-shift", "tunnel-vision", "warp-10" ],
+         "title": "Origins",
+         "type": "collection"
+      },
+      "space": {
+         "cover": "space.jpg",
+         "members": [ "bliss", "bounce", "mystic", "raspberry-jam", "summer", "supernova", "the-truth" ],
+         "title": "Space",
+         "type": "collection"
+      },
+      "time": {
+         "cover": "time.jpg",
+         "members": [ "breakdance", "click", "hover", "reload", "sand", "telephone", "transdimensional" ],
+         "title": "Time",
+         "type": "collection"
+      },
+      "tracks-of-2018": {
+         "cover": "tracks-of-2018.jpg",
+         "members": [
+            "alpha",
+            "ambient-smash",
+            "cataclysm",
+            "electro-song",
+            "limbo",
+            "piano-song",
+            "pyramid",
+            "rainfall",
+            "signal",
+            "tension"
+         ],
+         "title": "Tracks of 2018",
+         "type": "collection"
+      },
+      "cloud-9": {
+         "cover": "cloud-9.jpg",
+         "members": [ "chilled-ii", "cloud-9", "interstellar", "midaris-ii", "retro", "rise", "sway" ],
+         "title": "Cloud 9",
+         "type": "collection"
+      },
+      "hummingbird": {
+         "cover": "hummingbird.jpg",
+         "members": [
+            "the-beginning",
+            "ancient-tales",
+            "rhythm",
+            "tangerine-skies",
+            "temporal-shift-ii",
+            "transdimensional-ii",
+            "the-end"
+         ],
+         "title": "Hummingbird",
+         "type": "collection"
+      },
+      "progression-x": {
+         "cover": "progression-x.jpg",
+         "members": [ "dream", "magnum-opus", "transdimensional-iii", "universe" ],
+         "title": "Progression X",
+         "type": "collection"
+      },
+      "tracks-of-2019": {
+         "cover": "tracks-of-2019.jpg",
+         "members": [
+            "bounce-ii",
+            "cataclysm-ii",
+            "dance-of-spades",
+            "eternity",
+            "evolution",
+            "hood-waltz",
+            "odyssey",
+            "retro-ii",
+            "rise-ii",
+            "transdimensional-iv"
+         ],
+         "title": "Tracks of 2019",
+         "type": "collection"
+      },
+      "initialize": {
+         "cover": "initialize.jpg",
+         "members": [
+            "animal-jam",
+            "binary-sunset",
+            "bliss-ii",
+            "c4",
+            "harmonic-voltage",
+            "jive",
+            "temporal-shift-iii"
+         ],
+         "title": "Initialize",
+         "type": "collection"
+      },
+      "progression-y": {
+         "cover": "progression-y.jpg",
+         "members": [ "animal-jam-ii", "dj-spider", "duality", "positron" ],
+         "title": "Progression Y",
+         "type": "collection"
+      },
+      "album-54": {
+         "cover": "album-54.jpg",
+         "members": [
+            "dance-of-hearts",
+            "drone-303",
+            "elaine",
+            "eternity-ii",
+            "evolution-ii",
+            "majesty",
+            "untitled-rap"
+         ],
+         "title": "Album 54",
+         "type": "collection"
+      },
+      "prototype": {
+         "cover": "prototype.jpg",
+         "members": [ "fairy-tale", "last-dimension", "majesty-ii", "mono", "new-level", "novel", "perfect" ],
+         "title": "Prototype",
+         "type": "collection"
+      },
+      "progression-z": {
+         "cover": "progression-z.jpg",
+         "members": [ "atmosphere", "fast-lane", "bounce-iii", "groovy" ],
+         "title": "Progression Z",
+         "type": "collection"
+      },
+      "tracks-of-2020": {
+         "cover": "tracks-of-2020.png",
+         "members": [
+            "cadence",
+            "challenger",
+            "epic-song",
+            "mystery",
+            "tangerine-skies-ii",
+            "telstar",
+            "temporal-shift-iv",
+            "top-secret",
+            "fresh",
+            "majesty-iii"
+         ],
+         "title": "Tracks of 2020",
+         "type": "collection"
+      },
+      "endless": {
+         "cover": "endless.jpg",
+         "members": [
+            "endless",
+            "endless-intro",
+            "endless-act-1",
+            "endless-interlude",
+            "endless-act-2",
+            "endless-act-3",
+            "endless-act-4",
+            "endless-act-5",
+            "endless-outro",
+            "endless-short"
+         ],
+         "title": "Endless",
+         "type": "collection"
+      },
+      "the-expanded-ost": {
+         "cover": "the-expanded-ost.jpg",
+         "members": [ "pan-galactic", "blissful", "riotous", "empowered", "smooth", "victorious", "hypno-ray" ],
+         "title": "De Blob: Expanded OST",
+         "type": "collection"
+      },
+      "seven": {
+         "cover": "seven.png",
+         "members": [
+            "innocence-lost",
+            "maternal-retribution",
+            "the-ultimate-encounter",
+            "spear-of-vengeance",
+            "perpetual-purgatory",
+            "unambivalent-severance",
+            "disconsolate-inevitability"
+         ],
+         "title": "Seven",
+         "type": "collection"
+      },
+      "bops-n-vibes": {
+         "cover": "bops-n-vibes.jpg",
+         "members": [
+            "dawn",
+            "chill",
+            "relief",
+            "dream-ii",
+            "fallen-down",
+            "jero",
+            "majestic-skies",
+            "power",
+            "song-of-the-ages",
+            "ticking-clock"
+         ],
+         "title": "Bops 'n' Vibes",
+         "type": "collection"
+      },
+      "tracks-of-2021": {
+         "cover": "tracks-of-2021.png",
+         "members": [ "stuckie", "infinity-v", "retro-iii", "harrowing-approach", "untitled-rap-ii" ],
+         "title": "Tracks Of 2021",
+         "type": "collection"
+      },
+      "spacetime": {
+         "cover": "spacetime.gif",
+         "members": [
+            "outertale-outlands",
+            "outertale-foundry",
+            "outertale-cosmos",
+            "outertale-aerialis",
+            "outertale-archive",
+            "outertale-muffet",
+            "outertale-dummy",
+            "outertale-hero",
+            "outertale-armageddon",
+            "outertale-megalovania"
+         ],
+         "title": "Best of Outertale",
+         "type": "collection"
+      },
+      "tracks-of-2022": {
+         "cover": "tracks-of-2022.jpg",
+         "members": [ "transdimensional-v", "dttfk-phase1", "dttfk-phase2", "paradox", "legacy" ],
+         "title": "Tracks Of 2022",
+         "type": "collection"
+      },
+      "featured-music": {
+         "cover": "featured-music.jpg",
+         "members": [
+            "tracks-of-2022:legacy",
+            "tracks-of-2022:paradox",
+            "tracks-of-2022:transdimensional-v",
+            "spacetime:outertale-foundry",
+            "spacetime:outertale-archive",
+            "spacetime:outertale-dummy",
+            "spacetime:outertale-hero",
+            "spacetime:outertale-armageddon",
+            "tracks-of-2021:stuckie",
+            "tracks-of-2021:retro-iii"
+         ],
+         "title": "Featured Music",
+         "type": "compilation"
       }
    },
    "index": [
@@ -1365,8 +1418,6 @@
       "endless",
       "seven",
       "bops-n-vibes",
-      "goated-1",
-      "goated-2",
       "tracks-of-2021",
       "featured-music"
    ]
