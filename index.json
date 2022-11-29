@@ -490,6 +490,11 @@
          "title": "Majesty III",
          "type": "audio"
       },
+      "majesty-iv": {
+         "source": "majesty-iv.mp3",
+         "title": "Majesty IV",
+         "type": "audio"
+      },
       "midaris": {
          "source": "midaris.mp3",
          "title": "Midaris",
@@ -907,7 +912,12 @@
       },
       "underswap-hopes-and-dreams": {
          "source": "underswap-hopes-and-dreams.mp3",
-         "title": "Underswap: Hopes and Dreams",
+         "title": "Underswap: Ambitions",
+         "type": "audio"
+      },
+      "underswap-their-theme": {
+         "source": "underswap-their-theme.mp3",
+         "title": "Underswap: Their Theme",
          "type": "audio"
       },
       "retro-iii": {
@@ -1028,6 +1038,11 @@
       "paradox": {
          "source": "paradox.mp3",
          "title": "Paradox",
+         "type": "audio"
+      },
+      "ghost-jam": {
+         "source": "ghost-jam.mp3",
+         "title": "Ghost Jam",
          "type": "audio"
       },
       "outertale-outlands": {
@@ -1336,7 +1351,15 @@
       },
       "tracks-of-2021": {
          "cover": "tracks-of-2021.png",
-         "members": [ "stuckie", "infinity-v", "retro-iii", "harrowing-approach", "untitled-rap-ii" ],
+         "members": [
+            "stuckie",
+            "infinity-v",
+            "retro-iii",
+            "harrowing-approach",
+            "untitled-rap-ii",
+            "underswap-hopes-and-dreams",
+            "underswap-their-theme"
+         ],
          "title": "Tracks Of 2021",
          "type": "collection"
       },
@@ -1359,7 +1382,15 @@
       },
       "tracks-of-2022": {
          "cover": "tracks-of-2022.jpg",
-         "members": [ "transdimensional-v", "dttfk-phase1", "dttfk-phase2", "paradox", "legacy" ],
+         "members": [
+            "transdimensional-v",
+            "dttfk-phase1",
+            "dttfk-phase2",
+            "ghost-jam",
+            "paradox",
+            "legacy",
+            "majesty-iv"
+         ],
          "title": "Tracks Of 2022",
          "type": "collection"
       },
@@ -1369,11 +1400,6 @@
             "tracks-of-2022:legacy",
             "tracks-of-2022:paradox",
             "tracks-of-2022:transdimensional-v",
-            "spacetime:outertale-foundry",
-            "spacetime:outertale-archive",
-            "spacetime:outertale-dummy",
-            "spacetime:outertale-hero",
-            "spacetime:outertale-armageddon",
             "tracks-of-2021:stuckie",
             "tracks-of-2021:retro-iii"
          ],
